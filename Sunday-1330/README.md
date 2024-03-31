@@ -4,6 +4,10 @@
 
 # 课堂题目链接
 
+[2024-3-31 换根dp](https://www.luogu.com.cn/contest/165193)
+
+[2024-3-24 树上背包练习](https://www.luogu.com.cn/contest/164040)
+
 [2024-3-17 树上背包](https://www.luogu.com.cn/contest/162884)
 
 [2024-3-10 分组背包](https://www.luogu.com.cn/contest/161669)
