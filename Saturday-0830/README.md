@@ -4,6 +4,8 @@
 
 # 课堂题目链接
 
+[2024-4-6 树上动态规划-综合](https://www.luogu.com.cn/contest/166104)
+
 [2024-3-30 换根dp](https://www.luogu.com.cn/contest/164912)
 
 [2024-3-23 树上背包练习](https://www.luogu.com.cn/contest/163702)
