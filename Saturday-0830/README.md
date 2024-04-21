@@ -4,6 +4,8 @@
 
 # 课堂题目链接
 
+[2024-4-20 状压dp练习](https://www.luogu.com.cn/contest/168294)
+
 [2024-4-13 状压dp](https://www.luogu.com.cn/contest/167200)
 
 [2024-4-6 树上动态规划-综合](https://www.luogu.com.cn/contest/166104)
