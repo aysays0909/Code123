@@ -4,6 +4,8 @@
 
 # 课堂题目链接
 
+[2024-5-5 状压dp练习2](https://www.luogu.com.cn/contest/170764)
+
 [2024-4-21 状压dp练习](https://www.luogu.com.cn/contest/168604)
 
 [2024-4-14 状压dp](https://www.luogu.com.cn/contest/167493)
