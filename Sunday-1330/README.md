@@ -4,6 +4,8 @@
 
 # 课堂题目链接
 
+[2024-5-26 市赛题目讲解](https://www.luogu.com.cn/contest/174101)
+
 [2024-5-19 常用模型练习](https://www.luogu.com.cn/contest/172789)
 
 [2024-5-12 位运算相关题目](https://www.luogu.com.cn/contest/171699)
