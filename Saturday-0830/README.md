@@ -4,6 +4,8 @@
 
 # 课堂题目链接
 
+[2024-6-1 数位dp](https://www.luogu.com.cn/contest/174962)
+
 [2024-5-25 市赛题目讲解](https://www.luogu.com.cn/contest/173720)
 
 [2024-5-18 常用模型练习](https://www.luogu.com.cn/contest/172504)
