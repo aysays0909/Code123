@@ -4,6 +4,8 @@
 
 # 课堂题目链接
 
+[2024-6-15 杂题练习](https://www.luogu.com.cn/contest/176980)
+
 [2024-6-8 单调队列优化dp](https://www.luogu.com.cn/contest/175939)
 
 [2024-6-1 数位dp](https://www.luogu.com.cn/contest/174962)
