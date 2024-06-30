@@ -4,9 +4,11 @@
 
 # 课堂题目链接
 
+[2024-6-29 思考题讲解1](https://www.luogu.com.cn/contest/178768)
+
 [2024-6-22 杂题练习2](https://www.luogu.com.cn/contest/177930)
 
-[6.15-6.28 课后思考](https://www.luogu.com.cn/contest/176989)
+[6.15-7.5 课后思考](https://www.luogu.com.cn/contest/176989)
 
 [2024-6-15 杂题练习](https://www.luogu.com.cn/contest/176980)
 
