@@ -4,6 +4,8 @@
 
 # 课堂题目链接
 
+[2024-7-6 ~ 2024-7-7 思考题讲解2+求逆元](https://www.luogu.com.cn/contest/180108)
+
 [2024-6-29 思考题讲解1](https://www.luogu.com.cn/contest/178768)
 
 [2024-6-22 杂题练习2](https://www.luogu.com.cn/contest/177930)
