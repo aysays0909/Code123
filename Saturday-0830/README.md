@@ -4,6 +4,10 @@
 
 # 课堂题目链接
 
+[2024-0831~0901 杂题混练](https://www.luogu.com.cn/contest/196356)
+
+[2024-0824 ~ 0825 树状数组](https://www.luogu.com.cn/contest/194725)
+
 [2024-7-20 ~ 2024-7-21 字符串](https://www.luogu.com.cn/contest/184285)
 
 [2024-7-13 ~ 2024-7-14 组合数](https://www.luogu.com.cn/contest/182172)
